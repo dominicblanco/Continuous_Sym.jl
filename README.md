@@ -87,10 +87,10 @@ If you wish to use this code in your publication, research, teaching, or other a
   url    = {https://github.com/dominicblanco/continuous_sym.jl},
   note = {\url{https://github.com/dominicblanco/continuous_sym.jl}},
   year   = {2026},
-  doi = {10.5281/zenodo.TBD}
+  doi = {10.5281/zenodo.24090635}
 }
 ```
-DOI : [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD) 
+DOI : [10.5281/zenodo.24090635](https://doi.org/10.5281/zenodo.24090635) 
 
 
 # Contact
